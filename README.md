@@ -17,8 +17,8 @@ ChatGPT镜像网站是指将原始网站的内容复制并放置在另一服务�
 
 ## 国内ChatGPT中文版
 
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
-- [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4o 支持 MJ 绘画
-- [https://lanjing.ai/](https://lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
+- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
+- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
