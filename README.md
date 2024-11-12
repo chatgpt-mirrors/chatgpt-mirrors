@@ -1,9 +1,8 @@
-# 2024/11/11 最新免费ChatGPT镜像列表 - ChatGPT中文版 & 国内镜像网站 
+# 2024/11/12 最新免费ChatGPT镜像列表 - ChatGPT中文版 & 国内镜像网站 
 
-## 11月更新 | 国内可用的 ChatGPT-4中文版镜像网站整理合集
-
-给大家整理了一些国内可访问且免费的 ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家都能直接用。  
-在国内可以直接在线使用的 ChatGPT免费中文版镜像网站。 这些网站均为免费的网页版，国内ChatGPT、免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站~
+2024年11月持续更新。。。
+国内可用的 ChatGPT中文版镜像网站整理合集，给大家整理了一些，ChatGPT镜像网站各有优劣，大家都能直接用。  
+在国内可以直接在线使用的 ChatGPT免费中文版镜像网站。
 
 ## 什么是 ChatGPT 镜像站？
 
@@ -15,7 +14,7 @@ ChatGPT镜像网站是指将原始网站的内容复制并放置在另一服务�
 - 备份与冗余 ：如果官方服务遇到故障或维护，镜像站可以作为备用，保证用户依然能够访问聊天机器人。
 
 
-## 国内ChatGPT中文版
+## ChatGPT镜像网站
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
